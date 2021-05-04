@@ -4,4 +4,4 @@ const flatten = function(array) {
   array.forEach(item=>{Array.isArray(item) ? result = result.concat(flatten(item)) : result.push(item);})
   return result;
 };
-
+module.exports = flatten;
