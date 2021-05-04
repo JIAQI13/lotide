@@ -3,7 +3,7 @@
     "chai": "^4.3.4",
     "mocha": "^8.3.2"
   },
-  "name": "lotide",
+  "name": "@jiaqi13/lotide",
   "version": "1.0.0",
   "main": "assertArraysEqual.js",
   "directories": {
@@ -99,11 +99,11 @@
     "type": "git",
     "url": "git+https://github.com/JIAQI13/lotide.git"
   },
-  "author": "",
+  "author": "Jiaqi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JIAQI13/lotide/issues"
   },
   "homepage": "https://github.com/JIAQI13/lotide#readme",
-  "description": ""
+  "description": "**_BEWARE:_ This library was published for learning purposes. It is _not_ intended for use in production-grade software.**"
 }
